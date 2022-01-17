@@ -13,7 +13,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/SaidRasinlic/MicroverseProjectReview/feature-branch/index.html)
+[Live Demo Link](https://raw.githack.com/SaidRasinlic/MicroverseProjectReview/main/index.html)
 
 
 ## Getting Started
